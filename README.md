@@ -12,8 +12,8 @@
 
 ### Connect with me:
 <a href="mailto:nipendra@gmail.com" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/gmail.png" width="52" alt="Email"></a>
-<a href="https://linkedin.com/in/nipendra" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/linkedin.png" width="52" alt="LinkedIn"></a>
-<a href="https://instagram.com/nip_endra" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/instagram.png" width="52" alt="Instagram"></a>
+<a href="https://linkedin.com/in/nipendra" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/linkedin.png" width="50" alt="LinkedIn"></a>
+<a href="https://instagram.com/nip_endra" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/instagram.png" width="50" alt="Instagram"></a>
 
 
 ### Languages and Tools:
@@ -28,7 +28,7 @@
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/css.svg?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
 
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/bootstrap.png?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
-<img src="https://github.com/nipendra/nipendra/blob/main/icons/js.svg?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
+<img src="https://github.com/nipendra/nipendra/blob/main/icons/js.svg?raw=true" height="50" width="50" style="vertical-align:top; margin-left:5px; margin-right:5px">
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/react.png?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/node.jpeg?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/sql.svg?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
@@ -39,6 +39,7 @@
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/terminal.png?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
 
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/chrome.png?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
+<img src="https://github.com/nipendra/nipendra/blob/main/icons/github.png?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/git.svg?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
 
 

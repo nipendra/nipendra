@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Nipendra Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="left">I'm a Software Developer and a Tech Enthusiast!</h3>
-  I am graduated from IIT Guwahati.I have done my Btech from Mathematics and Computing.I'm passionate about Programming, Full-Stack Web Development and also love Problem Solving. 
+  I am final year undergraduate student at IIT Guwahati in department of Mathematics and Computing.I'm passionate about Programming, Full-Stack Web Development and also love Problem Solving. 
  
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 

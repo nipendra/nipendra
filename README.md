@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a Software Developer at Agilemedialab
 - 🌱 I’m currently learning Reactjs and Nodejs
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to play and cook food
+- ⚡ Fun fact: I really enjoy cooking.
 
 ### Connect with me:
 <a href="mailto:nipendra@gmail.com" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/gmail.png" width="52" alt="Email"></a>

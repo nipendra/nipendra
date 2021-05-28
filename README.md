@@ -36,9 +36,10 @@
 <img src="https://github.com/nipendra/nipendra/blob/main/icons/git.svg?raw=true" height="50" width="50" style="vertical-align:top; margin:5px">
 </div>
 
-<h2 align="left">My Github Statistics 🔥</h2>   
-  
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nipendra&show_icons=true&theme=radical" alt="Iamtripathisatyam" />
-</p>
-
+<h2 align="left">My Github Statistics 🔥</h2> 
+<table>
+    <tr>
+        <td> <img src="https://github-readme-stats.vercel.app/api?username=nipendra&show_icons=true&theme=radical" alt="nipendra" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipendra&layout=compact&hide=perl"</td>
+    </tr>
+</table>

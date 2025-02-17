@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I really enjoy cooking.
 
 ### Connect with me:
-<a href="mailto:nipendra@gmail.com" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/gmail.png" width="52" alt="Email"></a>
+<a href="mailto:nipendra.dakshana15@gmail.com" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/gmail.png" width="52" alt="Email"></a>
 <a href="https://linkedin.com/in/nipendra" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/linkedin.png" width="50" alt="LinkedIn"></a>
 <a href="https://instagram.com/nip_endra" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/instagram.png" width="50" alt="Instagram"></a>
 

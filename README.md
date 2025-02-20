@@ -1,5 +1,5 @@
-About Me
-👋 Hi, I'm a passionate Software Developer with over 3 years of experience at Webedia, where I built impactful solutions using React.js, Material-UI, JavaScript, and other cutting-edge technologies.
+<h1 align="center">Hello, I'm Nipendra Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+I'm a passionate Software Developer with over 3 years of experience at Webedia, where I built impactful solutions using React.js, Material-UI, JavaScript, and other cutting-edge technologies.
 
 🎓 I hold a B.Tech in Mathematics and Computing from IIT Guwahati, giving me a strong foundation in Computer Science fundamentals. I have a deep interest in exploring new technologies, solving complex problems, and crafting intuitive, user-friendly applications.
 

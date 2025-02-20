@@ -1,14 +1,11 @@
-<h1 align="center">Hello, I'm Nipendra Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+About Me
+👋 Hi, I'm a passionate Software Developer with over 3 years of experience at Webedia, where I built impactful solutions using React.js, Material-UI, JavaScript, and other cutting-edge technologies.
 
-<h3 align="left">I'm a Software Developer and a Tech Enthusiast!</h3>
-  I am final year undergraduate student at IIT Guwahati in department of Mathematics and Computing.I'm passionate about Programming, Full-Stack Web Development and also love Problem Solving. 
- 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+🎓 I hold a B.Tech in Mathematics and Computing from IIT Guwahati, giving me a strong foundation in Computer Science fundamentals. I have a deep interest in exploring new technologies, solving complex problems, and crafting intuitive, user-friendly applications.
 
-- 🔭 I’m currently working as a Software Developer at Agilemedialab
-- 🌱 I’m currently learning Reactjs and Nodejs
-- 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I really enjoy cooking.
+🚀 I'm currently seeking Software Development opportunities where I can contribute to innovative projects and continue growing as a developer.
+
+📩 Let’s connect and collaborate!
 
 ### Connect with me:
 <a href="mailto:nipendra.dakshana15@gmail.com" target="_blank"><img src="https://github.com/nipendra/nipendra/blob/main/icons/gmail.png" width="52" alt="Email"></a>
